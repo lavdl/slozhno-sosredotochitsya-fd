@@ -18,7 +18,7 @@
   --content-question-title-color: #353430;
   --content-title-color: #353430;
   --hover-menu-color: rgba(53 52 48 / 0.4);
-  --header-cover: url(../images/cover-image-light.png);
+  --header-cover: url(./images/cover-image-light.png);
 }
 
 .theme-light .page {
@@ -40,6 +40,6 @@
     --content-question-title-color: #353430;
     --content-title-color: #353430;
     --hover-menu-color: rgba(53 52 48 / 0.4);
-    --header-cover: url(../images/cover-image-light.png);
+    --header-cover: url(./images/cover-image-light.png);
   }
 }

@@ -10,6 +10,6 @@
   --content-title-color: #000028;
   --main-font: 'IBM Plex mono';
   --main-font-size: 18px;
-  --header-cover: url(../images/cover-image-dark.png);
+  --header-cover: url(./images/cover-image-dark.png);
   --main-lineheight: 23.4px;
 }
