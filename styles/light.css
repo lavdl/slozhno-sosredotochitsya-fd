@@ -19,12 +19,13 @@
   --content-title-color: #353430;
   --hover-menu-color: rgba(53 52 48 / 0.4);
   --header-cover: url(../images/cover-image-light.png);
+  --decor-item: none;
 }
 
 .theme-light .page {
 
   .decor__item {
-    display: none;
+    display: var(--decor-item);
   }
 }
 
@@ -41,5 +42,6 @@
     --content-title-color: #353430;
     --hover-menu-color: rgba(53 52 48 / 0.4);
     --header-cover: url(../images/cover-image-light.png);
+    --decor-item: none;
   }
 }
